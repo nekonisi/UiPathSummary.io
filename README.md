@@ -22,11 +22,15 @@
 
 - 作業の記録の仕方を解説。
 
-## 4. [Debug](./mdFiles/Debug.html)
+## 4. [Algorithm](./mdFiles/Algorithm.html)
+
+- 条件分岐、繰り返しなどのアルゴリズムの実装方法を解説。
+
+## 5. [Debug](./mdFiles/Debug.html)
 
 - デバッグの方法を解説。
 
-## 5. [Tools](./mdFiles/Tools.html)
+## 6. [Tools](./mdFiles/Tools.html)
 
 - UiPathを効率的に使用するためのパッケージの紹介。
 
