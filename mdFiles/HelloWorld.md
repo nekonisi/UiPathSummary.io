@@ -9,7 +9,7 @@
 ### 1. プロジェクトの作成
 
 1. リボン > Start > Blankの順にクリック
-1. 情報を入力し、[Create]ボタンをクリック
+2. 情報を入力し、[Create]ボタンをクリック
   - 下記の値を設定すること
 
 プロパティ名|値
@@ -24,7 +24,7 @@ Description| UiPathでHello World
 ### 2. フローチャートの作成
 
 1. アクティビティパネルからメインパネルに`Flowchart`アクティビティをドラッグ＆ドロップ
-1. アクティビティパネルからメインパネルに`Message Box`アクティビティをドラッグ＆ドロップ
+2. アクティビティパネルからメインパネルに`Message Box`アクティビティをドラッグ＆ドロップ
   - プロパティパネルで下記の値を設定する。
 
 プロパティ名|値
@@ -32,8 +32,8 @@ Description| UiPathでHello World
 Content| "Hello! World"
 Title| "Message From Robot"
 
-1. アクティビティ同士を繋げる。
-1. 実行する。
+3. アクティビティ同士を繋げる。
+4. 実行する。
 
 ![アクティビティに接続](../img/HelloWorld/ConnectActivities.png)
 
@@ -51,11 +51,11 @@ Title| "Message From Robot"
 
 #### ワークフローの種類
 
-名称|解説|アクティビティ図
-----|----|---------------
-FlowChart|処理の遷移に注目したデザイン|![../img/HelloWorld/FlowChartImg.png]
-State Machine|状態の遷移に注目したデザイン|![../img/HelloWorld/StateMachineImg.png]
-Sequence|単純に、上から順に処理を行う。|![../img/HelloWorld/SequenceImg.png]
+名称|解説|イメージ図
+----|----|---------
+FlowChart|処理の遷移に注目したデザイン|![FlowChartのイメージ](../img/HelloWorld/FlowChartImg.png)
+State Machine|状態の遷移に注目したデザイン|![State Machineのイメージ](../img/HelloWorld/StateMachineImg.png)
+Sequence|単純に、上から順に処理を行う。|![Sequenceのイメージ](../img/HelloWorld/SequenceImg.png)
 
 - ※ これらのワークフローは互いに入れ子にできる！
 
@@ -77,7 +77,7 @@ Sequence|単純に、上から順に処理を行う。|![../img/HelloWorld/Seque
 ### 1. プロパティの設定
 
 1. 先ほど作成したHelloWorldロボットに`input Dialog`アクティビティを追加する。
-1. 追加した`input Dialog`アクティビティのプロパティ値を下記のように設定する。
+2. 追加した`input Dialog`アクティビティのプロパティ値を下記のように設定する。
   - `Result`プロパティを設定する際、`Result`プロパティを右クリックし、`Create Variable`を選択。
   - `Variable Type`に、`String`を設定する。
 
@@ -91,7 +91,7 @@ Title|"Inpu into Robot"
 Private|
 Result|strMyName
 
-1. `Message Box`アクティビティの`Context`プロパティを下記のように設定する。
+3. `Message Box`アクティビティの`Context`プロパティを下記のように設定する。
   - "Hello! Wolrd!" → "Hello!" & strMyName
 
 ### 2. アクティビティの接続
@@ -100,6 +100,6 @@ Result|strMyName
 
 ![アクティビティに接続](../img/HelloWorld/ConnectActivities2.png)
 
-- 実行すると、入力した値で挨拶をしてくれるようになる！
+- 実行すると、*入力した値で挨拶をしてくれるようになる！*
 
 [TOPへ](../)
