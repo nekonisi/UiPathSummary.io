@@ -51,7 +51,7 @@ Title| "Message From Robot"
 
 #### ワークフローの種類
 
-名称|解説|イメージ図
+名称|説明|イメージ図
 ----|----|---------
 FlowChart|処理の遷移に注目したデザイン|![FlowChartのイメージ](../img/HelloWorld/FlowChartImg.png)
 State Machine|状態の遷移に注目したデザイン|![State Machineのイメージ](../img/HelloWorld/StateMachineImg.png)
