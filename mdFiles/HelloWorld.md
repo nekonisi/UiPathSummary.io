@@ -15,7 +15,7 @@
 プロパティ名|値
 ------------|--
 Name| Hello World
-Location| D:\\UiPath\\(任意の場所)
+Location| D:\\UiPath\\<br>※ 任意の場所
 Description| UiPathでHello World
 
 
