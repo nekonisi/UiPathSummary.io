@@ -26,7 +26,7 @@
 
 自動Recordingできる操作|手動Recordingしなければいけない操作
 -------------------|--------------------
-・左クリック<br>・文字入力|・ショートカットキー	・右クリック<br>・マウスHover	・テキストの取得<br>・要素、画像の検索	・クリップモードへのコピー
+・左クリック<br>・文字入力|・ショートカットキー<br>・右クリック<br>・マウスHover<br>・テキストの取得<br>・要素、画像の検索<br>・クリップモードへのコピー
 
 ## Recordingの種類
 
@@ -47,7 +47,7 @@ Critix Recording|・リモートデスクトップなど、*Windows上でUI要�
 
 ### Recording画面の説明
 
-![Basic Recording画面の説明](../img/Recording/BasicRecordDialog.png)
+![Basic Recording画面の説明](../img/Recording/BasicRecordingDialog.png)
 
 #### 1. Recordボタン
 
