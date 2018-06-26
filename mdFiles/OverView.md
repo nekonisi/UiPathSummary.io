@@ -10,9 +10,9 @@
 
 名称|説明
 ----|----
-Front Office Robot</br>(FOR)|・従業員の端末にダウンロードされる。</br>・従業員と共に働く。
-Back Office Robot</br>(BOR)|・サーバ内のVMで(も)動作する、</br>・従業員の操作なしで動く。
-Orchestrator|・FOR/BORを管理する。</br>・BORとの連携により効果を発揮する。
+Front Office Robot<br>(FOR)|・従業員の端末にダウンロードされる。<br>・従業員と共に働く。
+Back Office Robot<br>(BOR)|・サーバ内のVMで(も)動作する、<br>・従業員の操作なしで動く。
+Orchestrator|・FOR/BORを管理する。<br>・BORとの連携により効果を発揮する。
 
 ![ロボットの種類](../img/OverView/KindOfRobot.png)
 
