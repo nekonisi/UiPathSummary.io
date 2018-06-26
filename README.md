@@ -3,7 +3,7 @@
 ## 概要
 
 - このページは、[UiPath](https://www.uipath.com)の概念や、その使用法についてまとめたページである。
-- 当サイトを作成するに当たり下記のサイトを参考にした。
+- 当ページを作成するに当たり下記のサイトを参考にした。
   - [Tutorial Inc. 株式会社チュートリアル  \| UiPathではじめるRPA入門 ](https://tutorial.co.jp/uipath-overview/)
 
 ## リンク
