@@ -18,7 +18,7 @@
 
 ### アクティビティ図
 
-![Try Catchアクティビティ](../img/Algorithm/TryCatchImg.png)
+![Try Catchアクティビティ](../img/Exception/TryCatchImg.png)
 
 #### Try
 
