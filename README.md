@@ -30,7 +30,11 @@
 
 - デバッグの方法を解説。
 
-## 6. [Tools](./mdFiles/Tools.html)
+## 6. [Exception](./mdFiles/Exception.html)
+
+- 例外処理について解説。
+
+## 7. [Tools](./mdFiles/Tools.html)
 
 - UiPathを効率的に使用するためのパッケージの紹介。
 
