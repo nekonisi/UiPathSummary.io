@@ -52,4 +52,6 @@ Message|出力メッセージ(変数の使用も可能)
 
 - ローカル変数の状態をリアルタイムで参照することが可能。
 
+![localタブとOutputタブ](../img/Debug/ExplaintTabs.png)
+
 [TOPへ](../)
